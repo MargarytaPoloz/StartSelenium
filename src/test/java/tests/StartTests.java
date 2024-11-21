@@ -2,17 +2,40 @@ package tests;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
+import org.openqa.selenium.By;
 
 public class StartTests {
+    WebDriver driver = new ChromeDriver();
+
     @Test
-    public void firstTEst(){
-        WebDriver driver = new ChromeDriver();
+    public void firstTEst() {
+
         driver.navigate().to("https://telranedu.web.app/home");
-
-        System.out.println("   hhhhh");
-
+        try {
+            Thread.sleep(3000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+        WebElement btnLoginHeader = driver.findElement(By.cssSelector("a[href='/login']"));
+        btnLoginHeader.click();
+WebElement btnReg = driver.findElement(By.cssSelector("button[name='registration']"));
+btnReg.click();
+       // driver.quit();
     }
 
+    @Test
+    public void secondTest() {
+        driver.navigate().to("https://telranedu.web.app/home");
+        WebElement elementText = driver.findElement(By.cssSelector("h2"));
+
+        System.out.println(elementText.getText());
+
+        WebElement btnAbout = driver.findElement(By.cssSelector("*[href='/about']"));
+        System.out.println("Tag name:  " + btnAbout.getTagName());
+        System.out.println("Tag text:  " + btnAbout.getText());
+        driver.quit();
+    }
 
 }
