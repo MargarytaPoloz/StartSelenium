@@ -20,5 +20,6 @@ WebElement inputPassvord = driver.findElement(By.xpath("//input[@name='password'
         inputPassvord.sendKeys("Password1!");
         WebElement btnRegistration = driver.findElement(By.xpath("//form/button[last()]"));
         btnRegistration.click();
+
     }
 }
