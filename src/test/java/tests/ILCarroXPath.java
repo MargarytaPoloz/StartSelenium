@@ -21,8 +21,8 @@ WebElement inputEmail = driver.findElement(By.xpath("//input[@formcontrolname='e
         inputEmail.sendKeys("margarytapoloz@gmail.com");
 WebElement inputPassword = driver.findElement(By.xpath("//input[@formcontrolname='password']"));
         inputPassword.sendKeys("123456Margo!");
-       WebElement checkBox1_ = driver.findElement(By.xpath("////input[@type='checkbox']"));
-        checkBox1.click();
+       WebElement checkBox = driver.findElement(By.xpath("////input[@type='checkbox']"));
+        checkBox.click();
         WebElement btnSubmit = driver.findElement(By.xpath("//button[@type='submit']"));
         btnSubmit.click();
     }

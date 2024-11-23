@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92d490b1-c18d-42f2-8d12-6473fe0a6164" name="Changes" comment="created XPathSelector">
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/ILCarroXPath.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/XPathSelector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/XPathSelector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/ILCarroXPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/ILCarroXPath.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -224,7 +223,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732214341584</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="created XPathSelector">
+      <option name="closed" value="true" />
+      <created>1732362936369</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732362936369</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
