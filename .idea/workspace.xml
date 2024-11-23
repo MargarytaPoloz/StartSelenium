@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92d490b1-c18d-42f2-8d12-6473fe0a6164" name="Changes" comment="created XPathSelector">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/ILCarroXPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/ILCarroXPath.java" afterDir="false" />
-    </list>
+    <list default="true" id="92d490b1-c18d-42f2-8d12-6473fe0a6164" name="Changes" comment="created XPathSelector" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +37,9 @@
     &quot;accountId&quot;: &quot;21e9a305-1c5f-46e5-b235-398efb557ce1&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -231,7 +231,23 @@
       <option name="project" value="LOCAL" />
       <updated>1732362936369</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="created XPathSelector">
+      <option name="closed" value="true" />
+      <created>1732363532514</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732363532514</updated>
+    </task>
+    <task id="LOCAL-00005" summary="created XPathSelector">
+      <option name="closed" value="true" />
+      <created>1732363564555</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732363564555</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
