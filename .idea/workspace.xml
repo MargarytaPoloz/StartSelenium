@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92d490b1-c18d-42f2-8d12-6473fe0a6164" name="Changes" comment="created XPathSelector" />
+    <list default="true" id="92d490b1-c18d-42f2-8d12-6473fe0a6164" name="Changes" comment="created XPathSelector">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/ILCarroXPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/ILCarroXPath.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,23 +54,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.ILCarroXPath.executor": "Run",
-    "Gradle.ILCarroXPath.typeRegForm.executor": "Run",
-    "Gradle.SelectorCss.elementsHeaderIlCarro.executor": "Run",
-    "Gradle.SelectorCss.executor": "Run",
-    "Gradle.StartTests.executor": "Run",
-    "Gradle.StartTests.firstTEst.executor": "Run",
-    "Gradle.StartTests.secondTest.executor": "Run",
-    "Gradle.XPathSelector.methodXPath.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.ILCarroXPath.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.ILCarroXPath.typeRegForm.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SelectorCss.elementsHeaderIlCarro.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SelectorCss.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.StartTests.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.StartTests.firstTEst.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.StartTests.secondTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.XPathSelector.methodXPath.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Gradle.ILCarroXPath">
+}</component>
+  <component name="RunManager" selected="Gradle.ILCarroXPath.typeRegForm">
     <configuration name="ILCarroXPath" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -190,8 +193,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.ILCarroXPath" />
         <item itemvalue="Gradle.ILCarroXPath.typeRegForm" />
+        <item itemvalue="Gradle.ILCarroXPath" />
         <item itemvalue="Gradle.XPathSelector.methodXPath" />
         <item itemvalue="Gradle.SelectorCss.elementsHeaderIlCarro" />
         <item itemvalue="Gradle.SelectorCss" />
@@ -247,7 +250,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732363564555</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="created XPathSelector">
+      <option name="closed" value="true" />
+      <created>1732363687331</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732363687331</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
